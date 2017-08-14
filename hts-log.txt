@@ -1,0 +1,31 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 14 Aug 2017 15:54:59 at http://myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html -O1 "C:\My Web Sites\blogger" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/blockbullets.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/searchicon.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/postdateicon.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/postauthoricon.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/postediticon.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/postbullets.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/postquote.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/footerrssicon.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/footerfacebookicon.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/footertwittericon.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/tumblricon.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/pinteresticon.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/vimeoicon.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/youtubeicon.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/linkedinicon.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/footerbullets.png (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/preloader-01.gif (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/images/ (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/statcounter.com/counter/counter_xhtml.js (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+15:55:47	Error: 	"Not Found" (404) at link myfreeinstagramfollowers.blogspot.com/2017/06/bravenet.com/counter/code.php (from myfreeinstagramfollowers.blogspot.com/2017/06/freeinstagramfolowers.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 49 seconds : 40 links scanned, 19 files written (1424352 bytes overall) [1827026 bytes received at 37286 bytes/sec], 3100186 bytes transferred using HTTP compression in 24 files, ratio 20%
+(20 errors, 0 warnings, 0 messages)
